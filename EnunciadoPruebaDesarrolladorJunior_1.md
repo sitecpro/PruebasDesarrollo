@@ -690,7 +690,7 @@ Pregunta. Si prefieres no esperar, toma una decisión, impleméntala y explícal
 - [ ] No hay secretos, `bin/`, `obj/`, `node_modules/` ni `.db` versionados
 - [ ] `README.md` y `DECISIONES.md` están completos y son honestos
 - [ ] Hay al menos 8 commits con mensajes significativos
-- [ ] Concedí acceso al repositorio a `<usuario-evaluador>`
+- [ ] Concedí acceso al repositorio a `osanchezm` en GitHub
 
 ---
 
